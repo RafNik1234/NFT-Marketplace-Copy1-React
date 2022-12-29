@@ -41,11 +41,11 @@ const ScreenDekstop = (props) => {
                 src="/playground_assets/rocketlaunchi1433-56v.svg"
                 className="screen-dekstop-rocket-launch"
               />
-              <span className="screen-dekstop-text05">Get Started</span>
+              <span className="screen-dekstop-text07">Get Started</span>
             </button>
             <div className="screen-dekstop-additional-info">
               <div className="screen-dekstop-total-sale">
-                <span className="screen-dekstop-text06 H4-SpaceMono">
+                <span className="screen-dekstop-text08 H4-SpaceMono">
                   <span>
                     240k+
                     <span
@@ -55,23 +55,23 @@ const ScreenDekstop = (props) => {
                     />
                   </span>
                 </span>
-                <span className="screen-dekstop-text08">
+                <span className="screen-dekstop-text10">
                   <span>Total Sale</span>
                 </span>
               </div>
               <div className="screen-dekstop-auctions">
-                <span className="screen-dekstop-text10 H4-SpaceMono">
+                <span className="screen-dekstop-text12 H4-SpaceMono">
                   <span>100k+</span>
                 </span>
-                <span className="screen-dekstop-text12">
+                <span className="screen-dekstop-text14">
                   <span>Auctions</span>
                 </span>
               </div>
               <div className="screen-dekstop-artists">
-                <span className="screen-dekstop-text14 H4-SpaceMono">
+                <span className="screen-dekstop-text16 H4-SpaceMono">
                   <span>240k+</span>
                 </span>
-                <span className="screen-dekstop-text16">
+                <span className="screen-dekstop-text18">
                   <span>Artists</span>
                 </span>
               </div>
@@ -84,7 +84,7 @@ const ScreenDekstop = (props) => {
               className="screen-dekstop-image-placeholder"
             />
             <div className="screen-dekstop-frame230">
-              <span className="screen-dekstop-text18 H5-WorkSans">
+              <span className="screen-dekstop-text20 H5-WorkSans">
                 <span>Space Walking</span>
               </span>
               <div className="screen-dekstop-artist-card">
@@ -97,7 +97,7 @@ const ScreenDekstop = (props) => {
                     />
                   </div>
                 </div>
-                <span className="screen-dekstop-text20 Base(Body)-WorkSans">
+                <span className="screen-dekstop-text22 Base(Body)-WorkSans">
                   <span>Animakid</span>
                 </span>
               </div>
