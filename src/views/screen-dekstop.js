@@ -1,8 +1,8 @@
-import React from 'react'
+import React from "react";
 
-import { Helmet } from 'react-helmet'
+import { Helmet } from "react-helmet";
 
-import './screen-dekstop.css'
+import "./screen-dekstop.css";
 
 const ScreenDekstop = (props) => {
   return (
@@ -27,12 +27,15 @@ const ScreenDekstop = (props) => {
                 240k+
                 <span
                   dangerouslySetInnerHTML={{
-                    __html: ' ',
+                    __html: " ",
                   }}
                 />
               </span>
             </span>
-            <button className="screen-dekstop-button">
+            <button
+              className="screen-dekstop-button"
+              onClick={() => alert("Hello")}
+            >
               <img
                 alt="RocketLaunchI1433"
                 src="/playground_assets/rocketlaunchi1433-56v.svg"
@@ -47,7 +50,7 @@ const ScreenDekstop = (props) => {
                     240k+
                     <span
                       dangerouslySetInnerHTML={{
-                        __html: ' ',
+                        __html: " ",
                       }}
                     />
                   </span>
@@ -103,7 +106,7 @@ const ScreenDekstop = (props) => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default ScreenDekstop
+export default ScreenDekstop;
