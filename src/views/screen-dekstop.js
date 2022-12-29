@@ -18,21 +18,31 @@ const ScreenDekstop = (props) => {
                 <span>Discover digital art &amp; Collect NFTs</span>
               </span>
               <span className="screen-dekstop-text02 BodyText-WorkSans">
-                NFT marketplace UI created with Anima for Figma. Collect, buy
-                and sell art from more than 20k NFT artists.
+                NFT marketplace UI created with Anima for Figma 12. Collect, buy
+                and sell art from more than 20k NFT artists. and more
               </span>
             </div>
+            <span className="screen-dekstop-text03 H4-SpaceMono">
+              <span>
+                240k+
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: ' ',
+                  }}
+                />
+              </span>
+            </span>
             <button className="screen-dekstop-button">
               <img
                 alt="RocketLaunchI1433"
                 src="/playground_assets/rocketlaunchi1433-56v.svg"
                 className="screen-dekstop-rocket-launch"
               />
-              <span className="screen-dekstop-text03">Get Started</span>
+              <span className="screen-dekstop-text05">Get Started</span>
             </button>
             <div className="screen-dekstop-additional-info">
               <div className="screen-dekstop-total-sale">
-                <span className="screen-dekstop-text04 H4-SpaceMono">
+                <span className="screen-dekstop-text06 H4-SpaceMono">
                   <span>
                     240k+
                     <span
@@ -42,23 +52,23 @@ const ScreenDekstop = (props) => {
                     />
                   </span>
                 </span>
-                <span className="screen-dekstop-text06">
+                <span className="screen-dekstop-text08">
                   <span>Total Sale</span>
                 </span>
               </div>
               <div className="screen-dekstop-auctions">
-                <span className="screen-dekstop-text08 H4-SpaceMono">
+                <span className="screen-dekstop-text10 H4-SpaceMono">
                   <span>100k+</span>
                 </span>
-                <span className="screen-dekstop-text10">
+                <span className="screen-dekstop-text12">
                   <span>Auctions</span>
                 </span>
               </div>
               <div className="screen-dekstop-artists">
-                <span className="screen-dekstop-text12 H4-SpaceMono">
+                <span className="screen-dekstop-text14 H4-SpaceMono">
                   <span>240k+</span>
                 </span>
-                <span className="screen-dekstop-text14">
+                <span className="screen-dekstop-text16">
                   <span>Artists</span>
                 </span>
               </div>
@@ -71,7 +81,7 @@ const ScreenDekstop = (props) => {
               className="screen-dekstop-image-placeholder"
             />
             <div className="screen-dekstop-frame230">
-              <span className="screen-dekstop-text16 H5-WorkSans">
+              <span className="screen-dekstop-text18 H5-WorkSans">
                 <span>Space Walking</span>
               </span>
               <div className="screen-dekstop-artist-card">
@@ -84,7 +94,7 @@ const ScreenDekstop = (props) => {
                     />
                   </div>
                 </div>
-                <span className="screen-dekstop-text18 Base(Body)-WorkSans">
+                <span className="screen-dekstop-text20 Base(Body)-WorkSans">
                   <span>Animakid</span>
                 </span>
               </div>

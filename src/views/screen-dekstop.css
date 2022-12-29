@@ -59,6 +59,20 @@
   line-height: 160.0000023841858%;
   margin-right: 0;
   margin-bottom: 0;
+  background-color: #000000;
+}
+.screen-dekstop-text03 {
+  color: var(--dl-color-default-white);
+  width: var(--dl-size-size-large);
+  height: auto;
+  flex-grow: 1;
+  align-self: center;
+  text-align: center;
+  line-height: 139.9999976158142%;
+  border-color: var(--dl-color-gray-black);
+  border-width: 1px;
+  margin-right: 0;
+  margin-bottom: 0px;
 }
 .screen-dekstop-button {
   height: 60px;
@@ -79,7 +93,7 @@
   position: relative;
   margin-right: 12px;
 }
-.screen-dekstop-text03 {
+.screen-dekstop-text05 {
   color: rgb(255, 255, 255);
   height: auto;
   font-size: 16px;
@@ -115,7 +129,7 @@
   border-radius: 20px;
   flex-direction: column;
 }
-.screen-dekstop-text04 {
+.screen-dekstop-text06 {
   color: var(--dl-color-default-white);
   height: auto;
   flex-grow: 1;
@@ -125,7 +139,7 @@
   margin-right: 0;
   margin-bottom: 0px;
 }
-.screen-dekstop-text06 {
+.screen-dekstop-text08 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 23.989999771118164px;
@@ -152,7 +166,7 @@
   border-radius: 20px;
   flex-direction: column;
 }
-.screen-dekstop-text08 {
+.screen-dekstop-text10 {
   color: var(--dl-color-default-white);
   height: auto;
   align-self: stretch;
@@ -161,7 +175,7 @@
   margin-right: 0;
   margin-bottom: 0px;
 }
-.screen-dekstop-text10 {
+.screen-dekstop-text12 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 23.989999771118164px;
@@ -187,7 +201,7 @@
   border-radius: 20px;
   flex-direction: column;
 }
-.screen-dekstop-text12 {
+.screen-dekstop-text14 {
   color: var(--dl-color-default-white);
   height: auto;
   align-self: stretch;
@@ -196,7 +210,7 @@
   margin-right: 0;
   margin-bottom: 0px;
 }
-.screen-dekstop-text14 {
+.screen-dekstop-text16 {
   color: var(--dl-color-default-white);
   height: auto;
   font-size: 23.989999771118164px;
@@ -245,7 +259,7 @@
   justify-content: center;
   background-color: var(--dl-color-default-backgroundsecondary);
 }
-.screen-dekstop-text16 {
+.screen-dekstop-text18 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   align-self: stretch;
@@ -288,7 +302,7 @@
   border-color: transparent;
   border-radius: 120px;
 }
-.screen-dekstop-text18 {
+.screen-dekstop-text20 {
   color: rgba(255, 255, 255, 1);
   height: auto;
   flex-grow: 1;
